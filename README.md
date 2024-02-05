@@ -1,4 +1,4 @@
-# Landing Pagae - Responsive
+# Landing Page - Responsive
 <p align="center">A small landing Page for testing html, css, javascryt and localstorage.</p>
 <h3 align="center">
   <a href="https://github.com/fparmezani/LandingPage/blob/master/LICENSE" target="_blank">
