@@ -15,7 +15,7 @@
 
 Sample preview running the app:
 <hr/>
-[<img src="https://github.com/fparmezani/LandingPage/images/Group1.png">](https://github.com/fparmezani/LandingPage/blob/master/images/Group1.png)
+<img src="/images/Group1.png">
 
 # About the Project
 
