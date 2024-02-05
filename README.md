@@ -1,5 +1,5 @@
-# Controle Financeiro - Financial Control
-<p align="center">A small financial control app for testing html, css, typescryt, react and localstorage.</p>
+# Landing Pagae - Responsive
+<p align="center">A small landing Page for testing html, css, javascryt and localstorage.</p>
 <h3 align="center">
   <a href="https://github.com/fparmezani/LandingPage/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
