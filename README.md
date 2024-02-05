@@ -31,7 +31,7 @@ Sample preview running the app:
 ![Web 1]<img src="/images/Group1.png">
 
 
-# Tecnologies
+# Technologies
 
 ## Back end
 - LocalStorage
