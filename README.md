@@ -19,16 +19,16 @@ Sample preview running the app:
 
 # About the Project
 
-https://controlefinanceiroparme.herokuapp.com/
-
-Financial Control is a full stack web and mobile application built for project portfolio.[fparmezani](https://parmezani.net "Site do Fernando Parmezani").
+[https://fparmezani.github.io/LandingPage/](https://fparmezani.github.io/LandingPage/)
 
 
 ## Layout mobile
-![Mobile 1](https://raw.githubusercontent.com/gist/fparmezani/2bbed908b1fe4edb3c9f9cf564b6ffda/raw/80a3fd50ab6eae78eab930274f0a833e97d42445/controle_financeiro_mobile.svg) 
+![Mobile 1]
+<img src="/images/mobile.jpg">
+
 
 ## Layout web
-![Web 1](https://raw.githubusercontent.com/gist/fparmezani/a45023369b5068a625c2dda6cca52c6d/raw/f731e34490996e18b643aa35cb2a7d12481b0721/controle_financeiro.svg)
+![Web 1]<img src="/images/Group1.png">
 
 
 # Tecnologies
