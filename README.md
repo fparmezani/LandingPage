@@ -24,7 +24,7 @@ Sample preview running the app:
 
 ## Layout mobile
 ![Mobile 1]
-<img src="/images/mobile.jpg">
+<img src="/images/mobile.JPG">
 
 
 ## Layout web
